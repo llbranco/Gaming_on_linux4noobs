@@ -34,6 +34,8 @@ Pense neles como "garrafas" ou "mini-instalações isoladas do Windows". Cada jo
 ### Dependências
 São as bibliotecas, runtimes ou softwares adicionais que um jogo precisa para rodar perfeitamente (Ex: *Visual C++ Redistributables*, *DirectX Runtimes*, *.NET Framework*). No Linux, em vez de instaladores manuais, usamos ferramentas utilitárias para injetar essas dependências diretamente dentro do prefixo do jogo.
 
+[APIs graficas](https://github.com/llbranco/Gaming_on_linux4noobs/blob/main/GRAPHICS_API.md)
+
 ---
 
 ## 🚀 Parâmetros de Inicialização (Launch Options)
