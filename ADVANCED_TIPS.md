@@ -25,6 +25,11 @@ O kernel Linux possui drivers nativos excelentes, mas o comportamento pode varia
 * **DualSense (PS5):** Funciona perfeitamente na Steam. Para garantir o suporte às funções de gatilho e rumble em jogos fora da Steam, o driver `hid-playstation` (já presente no kernel moderno) é o responsável.
 * **Dica:** Utilize o menu "Big Picture" da Steam para calibrar zonas mortas e remapeamento de botões de qualquer controle.
 
+## Overclock, Undervolt e Controle de Fans
+NVIDIA: GreenWithEnvy (GWE) para ajustar o clock da VRAM, limite de energia e curva de ventoinhas.
+
+AMD: CoreCtrl ou LACT, que se integram perfeitamente aos drivers do kernel para controle total das frequências da GPU e undervolting.
+
 ---
 
 ## 🛠️ Resumo Técnico para Power Users
