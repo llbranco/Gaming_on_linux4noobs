@@ -97,3 +97,5 @@ Jogos multiplayer competitivos com anti-cheats a nível de kernel ou proprietár
 1. **Use o GE-Proton para vídeos corrompidos:** Se um jogo travar ou exibir barras coloridas/telas pretas em cutscenes, use o ProtonUp-Qt para baixar o *GE-Proton* mais recente e selecione-o nas propriedades do jogo.
 2. **Evite partições NTFS:** O Proton e o Wine gerenciam permissões de arquivos no formato POSIX do Linux. Executar jogos a partir de um HD/SSD formatado em NTFS (padrão do Windows) causa falhas críticas de escrita e corrupção de prefixos. Prefira **ext4** ou **btrfs** para a biblioteca.
 3. **Mantenha os drivers de GPU atualizados:** No Linux, para placas AMD e Intel, os drivers de vídeo fazem parte do Kernel e da biblioteca **Mesa**. Mantenha o sistema sempre atualizado para garantir os patches mais recentes do ecossistema gráfico (*RADV/ANV*).
+
+[Dicas Avançadas](https://github.com/llbranco/Gaming_on_linux4noobs/blob/main/ADVANCED_TIPS.md)
