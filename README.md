@@ -9,6 +9,7 @@ Se você é um recém-chegado do Windows ou um usuário avançado (*power user*)
 *   **Dicionário de Termos:** Entenda o que é Wine, Proton, Prefixes e muito mais.
 *   **Guia de Tecnologias:** Links e explicações sobre os pilares da compatibilidade.
 *   **Tutoriais Práticos:** Como configurar launchers, gerenciar dependências e otimizar a performance.
+*   **[Distros](https://github.com/llbranco/Gaming_on_linux4noobs/blob/main/DISTROS_GAMER.md):** um guia rápido sobre algumas distros famosas ou com foco em ser uma **Distro Gamer**
 
 ---
 
