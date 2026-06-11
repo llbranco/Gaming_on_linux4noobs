@@ -19,6 +19,7 @@ Se você é um recém-chegado do Windows ou um usuário avançado (*power user*)
 
 ### [Proton](https://github.com/ValveSoftware/Proton)
 Uma versão modificada do Wine desenvolvida pela Valve (criadora da Steam) em parceria com a CodeWeavers. Ele já vem integrado à Steam e traz empacotadas ferramentas essenciais de alto desempenho como o **DXVK** e o **VKD3D-Proton**, além de correções específicas para jogos modernos. É o motor por trás do Steam Deck.
+[veja mais](https://github.com/llbranco/Gaming_on_linux4noobs/blob/main/PROTON_VERSIONS.md)
 
 ### [Wayland](https://wayland.freedesktop.org/)
 O protocolo de servidor gráfico moderno do Linux, projetado para substituir o antigo X11. Para jogos, ele elimina completamente o *screen tearing* sem a necessidade de V-Sync tradicional (evitando input lag), além de oferecer suporte nativo a HDR, taxas de atualização variáveis (VRR/FreeSync) e melhor gerenciamento em cenários de múltiplos monitores.
